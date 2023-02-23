@@ -1,0 +1,68 @@
+*{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: xx-small;
+}
+
+   textarea {
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+ .input {
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    width: 50%;
+    height: 30px;
+ }
+
+.email {
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    width: 50%;
+    height: 30px;
+ }
+
+ .pnumber {
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    width: 50%;
+    height: 30px;
+ }
+
+ .sad{
+    background-color: rgb(255, 123, 0);
+    height: 40px;
+    
+ }
+
+ .box {
+    border-style: solid;
+    border-color: rgb(255, 123, 0);
+    position: absolute;
+    float: right;
+    margin-left: 700px;
+    width: 310px;
+    height: 470px;
+    top: 40px;
+    bottom: 30%;
+ }
+
+.container {
+    margin:0 auto; 
+    width:960px;
+ }
+
+h1 {
+   font-size: 20px;
+}
+
+textarea#ufile {
+   text-align: center;
+}
